@@ -16,3 +16,10 @@ pip install -r requirements.in
 # Setup as a Python module
 python -m sense
 ```
+
+OR
+
+```
+./tasks.py init
+./tasks.py start
+```
